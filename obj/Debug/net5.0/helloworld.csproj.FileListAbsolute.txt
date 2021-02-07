@@ -1,0 +1,16 @@
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld.dll
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/home/mennor1/Documents/helloworld/bin/Debug/net5.0/helloworld.pdb
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.dll
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.pdb
+/home/mennor1/Documents/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache

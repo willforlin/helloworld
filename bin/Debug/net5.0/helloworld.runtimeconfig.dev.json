@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mennor1/.dotnet/store/|arch|/|tfm|",
+      "/home/mennor1/.nuget/packages"
+    ]
+  }
+}
