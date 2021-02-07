@@ -12,6 +12,7 @@ namespace helloworld
 
             name = Console.ReadLine() ;
             Console.WriteLine("seu nome é "  + name) ;
+            Console.WriteLine("agora vai") ;
 
 
         }
